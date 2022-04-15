@@ -1,0 +1,43 @@
+#main{
+    background-color: rgb(138, 130, 130);
+    width: auto;
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+    border-radius: 5px;
+    padding: 15px;
+}
+
+#title{
+   color: black;
+  
+   font-size: 3em;
+}
+
+p{
+    font-size: 1.5em;
+}
+
+#img-div{
+    background: white;
+    padding: 10px;
+    margin: 0
+}
+
+#image{
+  max-width: 100%;
+display: block;
+height: auto;
+margin: 0 auto;
+}
+
+#img-caption{
+    margin: 20px 0 15px 0;
+    font-size: 1.1rem;
+}
+
+h3{
+    margin: 50px 0;
+    font-size: 1.5rem;
+}
