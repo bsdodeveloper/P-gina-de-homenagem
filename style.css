@@ -1,5 +1,5 @@
 #main{
-    background-color: rgb(138, 130, 130);
+    background-color: rgb(226, 221, 221);
     width: auto;
     margin-top: 50px;
     margin-left: 20px;
@@ -37,7 +37,24 @@ margin: 0 auto;
     font-size: 1.1rem;
 }
 
+#tribute-info{
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+}
+
 h3{
     margin: 50px 0;
     font-size: 1.5rem;
+}
+
+#conteudo-list{
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+li{
+    font-size: 20px;
+    margin-top: 20px;
 }
